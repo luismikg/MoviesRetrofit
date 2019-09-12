@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="idMovie">Id:</string>
+    <string name="title">Titulo:</string>
+    <string name="subtitle">Subtitulo:</string>
+    <string name="year">Año:</string>
+    <string name="description">Descripcion:</string>
+    <string name="category">Categoria:</string>
+    <string name="idCategory">Id:</string>
+    <string name="category_title" translatable="false">Categorias</string>
+    <string name="movies_title">Peliculas</string>
+</resources>
